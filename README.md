@@ -1,2 +1,5 @@
-# proj-eeg-geom
-SGI2022 project - Evaluating geometric changes in high-dimensional pre-seizure epileptic EEG data
+# Evaluating geometric changes in high-dimensional pre-seizure epileptic EEG data
+Epilepsy is a chronic neurological disorder characterized by recurrent spontaneous seizures. Medications can control the frequency of seizures, but are not always effective. Timely prediction of seizures may reduce seizure-related injuries and enable the use of seizure intervention procedures. Recent studies have focused on predicting epileptic seizures from non-invasive Electroencephalogram (EEG) measurements, which record electrical activity in the brain and are currently used for identification of ongoing seizures in practice.
+In this project, we examine whether a recent geometric distance measure for unaligned high-dimensional datasets [1] can capture the subtle changes in EEG of pre-seizure segments compared with normal brain activity. In addition, we will test whether the intrinsic nature of [1] could facilitate seizure prediction across subjects and different electrode placements of the EEG.
+
+[1] https://arxiv.org/pdf/2202.01671.pdf
